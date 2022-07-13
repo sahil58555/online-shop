@@ -62,4 +62,11 @@ npm start
 * [EJS](https://ejs.co) - Templating engine
 * [MongoDB](https://www.mongodb.com) - Database
 
+## Screenshots
+![img1](https://user-images.githubusercontent.com/96676636/178665017-3dfbd514-4420-4fc5-a882-5b98b49cccbe.png)
+![img2](https://user-images.githubusercontent.com/96676636/178665026-3be35d70-60ad-496e-8c8a-7a3cd5096eb5.png)
+![img3](https://user-images.githubusercontent.com/96676636/178665034-5be8b815-46c5-45a2-bc57-fb596566e5ef.png)
+![img4](https://user-images.githubusercontent.com/96676636/178665037-26ce59ec-0532-4e6d-8cd7-400fd32a61b9.png)
+![img5](https://user-images.githubusercontent.com/96676636/178665039-6de90f2c-f627-4761-ac7f-827dc3fb3eb6.png)
+![img6](https://user-images.githubusercontent.com/96676636/178665041-73889875-391b-4b00-a5dd-4c4a93c4f3c7.png)
 
